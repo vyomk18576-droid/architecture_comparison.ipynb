@@ -81,7 +81,14 @@
 ## Future Improvements
 ### Use pretrained models (Transfer learning)
 ### Hyperparameter tuning
-### Add 
+### Add confusion matrix and classification 
+### Deploy using Flask/ FastAPI
+
+
+## Contributing
+### Feel free to fork this repo and improve it . Pull requests are welcome!
+
+
 
 
 
