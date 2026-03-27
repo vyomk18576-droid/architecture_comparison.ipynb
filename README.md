@@ -1,7 +1,7 @@
 # Comparing small cnn vs small vgg vs small resnet
 
 ## Project overview
-### The goal of this project is to classify natural images into six categories.
+## The goal of this project is to classify natural images into six categories.
 ### Buildings
 ### Forest
 ### Glacier
@@ -9,7 +9,7 @@
 ### Sea
 ### Street
 
-### We explore how model complexity affects performance by comparing:
+## We explore how model complexity affects performance by comparing:
 ### Basic CNN
 ### VGG-style mini CNN
 ### Residual Network (Resnet)
